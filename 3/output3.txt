@@ -1,0 +1,6 @@
+❯ bash 3.sh
+ksh,  tio01 jitu sos
+nologin,  unbound
+bash,  infra01 infra02
+zsh,  app001
+csh,  ulamcdc tie01
