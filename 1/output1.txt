@@ -1,0 +1,4 @@
+$ perl 1.pl
+Renaming ./Folder one/Folder Two/59a5137079db3e77ddaf2820cedf2245.txt    ->      ./Folder one/Folder Two/cb077efedbf74b2636b24c5ba9a7206b.txt
+Renaming ./Folder one/Folder Two/ce2e00580154b8d019611f9ca7d27715.txt    ->      ./Folder one/Folder Two/9db7a33a264a7a9300efc74a28cd8603.txt
+Renaming ./Folder one/Folder Two/d1de01388c33babe0732869b3de2b5bb.txt    ->      ./Folder one/Folder Two/f7ac9682d078e3f4551374d6589d6e1c.txt
