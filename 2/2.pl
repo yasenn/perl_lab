@@ -30,8 +30,8 @@ for (split /^/, $processlist) {
         }
     }
 }
-print "Applied args are: \n"l
+print "Applied args are: \n";
 foreach my $_arg ( @argsarray ) {
     print $_arg . "\n";
 }
-<STDIN>;
+<STDIN>

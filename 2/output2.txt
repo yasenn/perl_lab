@@ -1,0 +1,9 @@
+$perl 2.pl abc def ijk mno &
+> 18
+> Applied args are:
+> ... waiting
+
+$perl 2.pl abc pqr xyz
+> 19
+> 18
+> Applied args are:
